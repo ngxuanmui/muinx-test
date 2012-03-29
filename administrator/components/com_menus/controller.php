@@ -10,6 +10,7 @@ defined('_JEXEC') or die;
 jimport('joomla.application.component.controller');
 
 /* test for commit */
+/* test commit again */
 
 /**
  * Base controller class for Menu Manager.
